@@ -1,0 +1,1 @@
+// @match        https://microcorruption.com/debugger/*
